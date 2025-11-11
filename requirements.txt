@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+requests
+pandas
+numpy
+ccxt
+mexc-python
