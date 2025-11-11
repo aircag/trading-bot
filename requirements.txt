@@ -3,6 +3,4 @@ python-dotenv
 requests
 pandas
 numpy
-ccxt
-mexc-python
 ta
